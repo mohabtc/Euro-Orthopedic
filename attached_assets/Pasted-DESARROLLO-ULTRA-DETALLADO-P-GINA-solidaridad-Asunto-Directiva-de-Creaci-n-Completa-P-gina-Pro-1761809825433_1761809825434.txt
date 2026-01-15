@@ -1,0 +1,137 @@
+DESARROLLO ULTRA DETALLADO: PÁGINA /solidaridad
+Asunto: Directiva de Creación Completa - Página "Programa de Ayuda Solidaria".
+
+Para: IA de Desarrollo Web
+
+Misión: Construir la página /solidaridad desde cero. El diseño debe ser una extensión de la estética Apple: minimalista, empático, con una tipografía impecable y un uso magistral del espacio en blanco. El objetivo de esta página es generar una confianza profunda y demostrar que nuestro compromiso social es real, a la vez que se canaliza al usuario hacia el formulario de contacto.
+
+Especificaciones Globales:
+
+Utiliza la cabecera (header) y el pie de página (footer) globales del sitio.
+
+Toda la tipografía debe ser Inter.
+
+El scroll debe volver al inicio al cargar la página.
+
+Implementa las animaciones suaves de aparición (fade-in, slide-up) en cada sección a medida que el usuario se desplaza.
+
+Sección 1: Héroe (El Compromiso)
+Objetivo: Establecer el tono. No hablamos de un producto, hablamos de una misión.
+
+Diseño Visual: Una sección limpia, a pantalla completa, con texto centrado superpuesto sobre una imagen sutil.
+
+Imagen de Fondo:
+
+``
+
+Contenido (Centrado, Texto Blanco):
+
+Pre-título (Pequeño, Inter Regular): NUESTRO COMPROMISO
+
+Título (H1, Inter Bold, Grande): La libertad no debería ser un lujo.
+
+Párrafo (Subtítulo, Inter Regular, 18px): En Euro Orthopedic, creemos que la dignidad y la independencia son derechos universales. Nuestro Programa Solidario está diseñado para derribar las barreras económicas y hacer accesible la mejor tecnología a quienes más la necesitan.
+
+Sección 2: La Ayuda (El "Qué")
+Objetivo: Presentar el descuento de forma clara e impactante.
+
+Diseño Visual: Fondo blanco (#FFFFFF). Un diseño de dos columnas en escritorio (Imagen a la izquierda, Texto a la derecha). En móvil, la imagen se sitúa sobre el texto.
+
+Columna Izquierda (Visual):
+
+``
+
+Columna Derecha (Texto):
+
+Título (H2, Inter SemiBold, Negro #1d1d1f): Una ayuda directa del 25%.
+
+Párrafo (Inter Regular): El Programa de Ayuda Solidaria consiste en un descuento directo y transparente del 25% sobre el precio final de la silla OrthoCarbon Pro I y sus accesorios principales. Sin letra pequeña, sin comisiones ocultas. Es un compromiso firme para ayudar a las familias a recuperar su movilidad.
+
+Sección 3: Requisitos (El "Quién")
+Objetivo: Definir con total transparencia quién puede acceder a la ayuda. La claridad aquí es crucial para generar confianza.
+
+Diseño Visual: Fondo gris claro (#FAFAFA). Un título centrado y, debajo, una cuadrícula de dos columnas.
+
+Título (H2, Centrado): Diseñado para quien más lo necesita.
+
+Párrafo (Centrado, debajo del H2): Para asegurar que la ayuda llegue de forma justa, hemos establecido unos requisitos claros basados en indicadores oficiales.
+
+Contenido de la Cuadrícula (Dos Columnas):
+
+Columna Izquierda: El Umbral Económico
+
+Icono: Busca un icono SVG "outline" de "euro" o "documento financiero".
+
+Título (H3): Límite de Ingresos
+
+Párrafo: Para acceder al programa, los ingresos brutos anuales de la unidad familiar no deben superar 3 veces el IPREM (Indicador Público de Renta de Efectos Múltiples).
+
+Bloque Destacado (en un recuadro sutil):
+
+Título (Pequeño): Límite para 2025 (IPREM x3):
+
+Texto (Grande, Inter SemiBold): 25.200 € brutos anuales
+
+Párrafo Adicional: Este límite se incrementará en 0.5 veces el IPREM (4.200 €) por cada miembro adicional en la unidad familiar (hijos o dependientes).
+
+Columna Derecha: La Documentación
+
+Icono: Busca un icono SVG "outline" de "carpeta" o "check".
+
+Título (H3): Documentación Requerida
+
+Párrafo: Para validar la solicitud, nuestro equipo de asesores (de forma 100% confidencial) te guiará para presentar:
+
+Lista con Iconos de Check (✓):
+
+Certificado de discapacidad (≥33%).
+
+Declaración de la RENTA (IRPF) más reciente.
+
+Certificado de empadronamiento colectivo.
+
+Sección 4: Proceso (El "Cómo")
+Objetivo: Mostrar que el proceso es simple, humano y confidencial.
+
+Diseño Visual: Fondo blanco (#FFFFFF). Título centrado. Debajo, una secuencia visual de 3 pasos horizontales (en móvil, se apilan verticalmente).
+
+Título (H2, Centrado): Un proceso sencillo y humano.
+
+Contenido de los 3 Pasos:
+
+Paso 1: Contacta con nosotros
+
+Icono: Icono SVG "outline" de "teléfono" o "burbuja de chat".
+
+Párrafo: Solicita tu llamada gratuita. Menciona a nuestro especialista tu interés en el Programa Solidario. Te escucharemos sin prisas.
+
+Paso 2: Validación Confidencial
+
+Icono: Icono SVG "outline" de "escudo de seguridad" o "documento protegido".
+
+Párrafo: Te guiaremos para enviar los documentos de forma segura. Todo el proceso se trata con la máxima confidencialidad y respeto.
+
+Paso 3: Ayuda Aprobada
+
+Icono: Icono SVG "outline" de "check" o "corazón".
+
+Párrafo: Una vez validado, aplicamos tu 25% de descuento directamente. La libertad de movimiento estará un paso más cerca.
+
+Sección 5: Llamada a la Acción Final (CTA)
+Objetivo: El cierre. Reforzar la confianza y capturar el lead.
+
+Diseño Visual: Una sección ancha con un fondo azul (#0066cc) para un alto contraste. Todo el texto será blanco.
+
+Contenido (Centrado, Texto Blanco):
+
+Título (H2, Inter SemiBold): Da el primer paso hoy.
+
+Párrafo (Inter Regular, 18px): Permítenos ayudarte. Solicita una llamada con nuestro equipo. Es 100% confidencial, gratuita y sin ningún tipo de compromiso.
+
+Botón CTA:
+
+Estilo: Botón "píldora" con fondo blanco y texto azul (#0066cc).
+
+Texto: Solicitar llamada e informarme
+
+Funcionalidad: Este botón debe abrir el Formulario Modal (Pop-up) de captura de leads, exactamente el mismo que se usa en el resto del sitio.

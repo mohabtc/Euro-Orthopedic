@@ -1,0 +1,204 @@
+PROMPT DE DESARROLLO INTEGRAL: EL ASISTENTE DE COMPRA VISUAL "LEO"
+Asunto: Directiva de Desarrollo Completa para el Asistente de Chat Visual.
+
+Para: IA de Desarrollo Web
+
+Misión: Diseñar y construir el asistente de chat completo para Euro Orthopedic. Tu tarea no es solo procesar texto, es crear una experiencia de conserjería visual premium. Este asistente debe sentirse como un empleado de una Apple Store: experto, tranquilo, servicial y capaz de mostrarte, no solo contarte. Sigue cada detalle visual y de flujo.
+
+PARTE 1: DISEÑO DE LA EXPERIENCIA DE USUARIO (UX/UI)
+1.1. El Icono de Chat (Estado Inactivo):
+
+Diseño: Una burbuja de chat circular simple, fija en la esquina inferior derecha.
+
+Estilo: Fondo azul (#0066cc) con un icono de burbuja de chat "outline" en blanco en el centro.
+
+Animación Sutil: Un suave "pulso" de sombra cada 10 segundos para atraer la atención sin ser molesto.
+
+1.2. La Ventana de Chat (Estado Activo):
+
+Diseño General: Al hacer clic, la ventana se desliza suavemente hacia arriba. Debe ser impecablemente limpia. Fondo blanco, sin bordes innecesarios.
+
+Cabecera del Chat:
+
+Fondo: Un gris muy pálido (#FAFAFA).
+
+Avatar: Un círculo con un avatar minimalista para "Leo" (un icono de líneas limpias, no una foto real).
+
+Nombre: Leo (en Inter SemiBold).
+
+Título: Especialista de Producto Euro Orthopedic (en Inter Regular, color gris #86868b).
+
+Botón de Cerrar: Una "X" sutil en la esquina derecha.
+
+Área de Conversación: Amplio espacio en blanco.
+
+Burbujas del Asistente (Leo): Fondo gris claro (#F4F7F9), texto negro (#1d1d1f).
+
+Burbujas del Usuario: Fondo azul (#0066cc), texto blanco (#FFFFFF).
+
+Tipografía: Fuente Inter Regular para toda la conversación.
+
+Área de Entrada de Texto: Un campo de texto simple con el placeholder: Escribe tu pregunta...
+
+PARTE 2: PERSONA Y MENSAJE DE BIENVENIDA
+2.1. Persona del Asistente:
+
+Nombre: Leo
+
+Tono: Profesional, preciso, servicial y tranquilo. (Piensa: "Apple Genius"). Utiliza un lenguaje claro, evita la jerga y nunca es agobiante.
+
+2.2. Flujo de Bienvenida (La Primera Interacción):
+
+Apertura (Automática): 5 segundos después de que el usuario aterrice en la página, el chat se abre solo, muestra el mensaje de bienvenida y luego se minimiza (este "vistazo" aumenta la interacción).
+
+Mensaje de Bienvenida (Aparece con indicador de "escribiendo..."):
+
+Leo: "Hola. Soy Leo, tu especialista de producto. Estoy aquí para ayudarte a descubrir cómo la OrthoCarbon Pro I puede cambiar tu movilidad.
+
+¿Qué te gustaría explorar primero?"
+
+Botones de Respuesta Rápida (Visual): Inmediatamente después del saludo, presenta las opciones principales como botones visuales, no como texto.
+
+Diseño de Botones: Estilo "píldora" con un borde gris claro. Texto azul.
+
+[ Opción 1: Características Principales ]
+
+[ Opción 2: Precio y Oferta del Pack ]
+
+[ Opción 3: Envío y Garantía ]
+
+[ Opción 4: Solicitar una llamada ]
+
+PARTE 3: FLUJOS DE CONVERSACIÓN VISUALES
+Aquí es donde la palabra "visual" cobra vida.
+
+Flujo 1: Al hacer clic en [ Características Principales ]
+Respuesta de Leo:
+
+Leo: "La OrthoCarbon Pro I se define por tres innovaciones clave. Puedes explorar la que prefieras:"
+
+Presenta un CARRUSEL VISUAL: El usuario puede deslizar horizontalmente dentro del chat.
+
+Tarjeta 1: Ultraligera (9.8 kg)
+
+Visual: ``
+
+Texto: "Pesa solo 9.8 kg gracias a su chasis de fibra de carbono. Se levanta con una mano."
+
+Botón: [ Ver vídeo de plegado ]
+
+Tarjeta 2: Plegado en 3 Segundos
+
+Visual: ``
+
+Texto: "Se pliega de forma intuitiva en 3 segundos para caber en cualquier maletero."
+
+Botón: [ Ver vídeo de plegado ]
+
+Tarjeta 3: Batería y Motores
+
+Visual: ``
+
+Texto: "Motores duales silenciosos y opciones de batería para hasta 35 km de autonomía."
+
+Botón: [ Ver opciones de batería ]
+
+Acción del Botón [ Ver vídeo de plegado ]:
+
+Leo: "Claro. Observa lo sencillo que es:"
+
+(Incrusta un vídeo corto o un GIF de alta calidad directamente en el chat, mostrando el plegado).
+
+Leo: "¿Sobre qué más te gustaría informarte?"
+
+(Muestra de nuevo los botones del menú principal).
+
+Flujo 2: Al hacer clic en [ Precio y Oferta del Pack ]
+Respuesta de Leo:
+
+Leo: "Nuestra estrategia no es la venta directa, sino el asesoramiento experto.
+
+Al solicitar una llamada gratuita, te damos acceso al 'Pack Libertad Total' (valorado en 317€) y gestionamos contigo la reducción del IVA al 4% si dispones del certificado."
+
+Presenta una TARJETA VISUAL:
+
+Diseño: Una tarjeta limpia con un icono de "regalo".
+
+Título: Pack Libertad Total (Gratis con tu llamada)
+
+Lista (con iconos de check ✓):
+
+✓ Cojín Ergonómico
+
+✓ Bolsa de Transporte
+
+✓ Segundo Cargador
+
+Texto Adicional: "Un especialista te llamará para confirmar el precio final con tu IVA aplicado y sin compromiso."
+
+Botones de Siguiente Paso:
+
+[ Solicitar la llamada ahora ] (Inicia el Flujo 4)
+
+[ Tengo más preguntas ] (Vuelve al Menú Principal)
+
+Flujo 3: Al hacer clic en [ Envío y Garantía ]
+Respuesta de Leo (Usando Iconos en línea):
+
+Leo: "Claro. Te lo resumo:"
+
+🚚 Envío: Totalmente gratuito a toda la península. Recibes tu silla lista para usar en 48 horas.
+
+🛡️ Garantía: Tienes 2 años de garantía total en el chasis y los motores, y 6 meses en la batería. Cero preocupaciones.
+
+¿Puedo ayudarte con algo más?"
+
+(Muestra de nuevo los botones del menú principal).
+
+Flujo 4: Al hacer clic en [ Solicitar una llamada ] (La Conversión)
+Respuesta de Leo:
+
+Leo: "Perfecto. Es la mejor decisión. Un especialista resolverá todas tus dudas sin compromiso.
+
+Por favor, facilítame tu nombre:"
+
+(El usuario escribe su nombre).
+
+Respuesta de Leo:
+
+Leo: "Gracias, [Nombre del Usuario].
+
+Ahora, ¿cuál es tu número de teléfono? (Lo usaremos solo para esta llamada de asesoramiento)."
+
+(El usuario escribe su teléfono).
+
+Respuesta de Leo (Confirmación Legal):
+
+Leo: "¡Último paso! Solo necesito tu confirmación para que podamos contactarte."
+
+Botón de Checkbox: [ ] Acepto la Política de Privacidad y recibir esta llamada. (El texto "Política de Privacidad" es un enlace a la página legal).
+
+(El usuario marca el check).
+
+Respuesta de Leo (Éxito):
+
+Leo: "¡Todo listo, [Nombre]! ✅
+
+Un especialista de Euro Orthopedic te llamará muy pronto (normalmente en menos de 24h laborables).
+
+Gracias por tu confianza."
+
+PARTE 4: GESTIÓN DE ENTRADA DE TEXTO Y ERRORES
+Indicador Visual: Cuando "Leo" esté "escribiendo" una respuesta, muestra un indicador de tres puntos animados en su burbuja de chat. Esto hace la conversación más real.
+
+Fallback (Error): Si el usuario escribe algo que la IA no entiende (ej. "kjshdfk"):
+
+Leo: "Vaya, no he entendido bien esa parte. ¿Podrías reformularlo?
+
+O, si lo prefieres, puedo ayudarte con uno de estos temas:" (Muestra los botones del menú principal).
+
+Fallback (Pregunta Compleja): Si el usuario escribe una pregunta abierta como "¿es mejor que la marca X?":
+
+Leo: "Esa es una excelente pregunta que merece una respuesta detallada. El peso y la fibra de carbono son nuestras grandes ventajas.
+
+El especialista que te llame puede hacerte una comparativa técnica punto por punto. ¿Te parece bien si agendamos esa llamada gratuita?" [ Sí, agendar la llamada ] (Inicia el Flujo 4) [ No, tengo otra pregunta ]
